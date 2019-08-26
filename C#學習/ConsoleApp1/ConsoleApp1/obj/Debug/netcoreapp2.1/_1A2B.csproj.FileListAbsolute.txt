@@ -1,0 +1,11 @@
+D:\C#學習\ConsoleApp1\ConsoleApp1\obj\Debug\netcoreapp2.1\_1A2B.csprojAssemblyReference.cache
+D:\C#學習\ConsoleApp1\ConsoleApp1\obj\Debug\netcoreapp2.1\_1A2B.csproj.CoreCompileInputs.cache
+D:\C#學習\ConsoleApp1\ConsoleApp1\obj\Debug\netcoreapp2.1\_1A2B.AssemblyInfoInputs.cache
+D:\C#學習\ConsoleApp1\ConsoleApp1\obj\Debug\netcoreapp2.1\_1A2B.AssemblyInfo.cs
+D:\C#學習\ConsoleApp1\ConsoleApp1\bin\Debug\netcoreapp2.1\_1A2B.deps.json
+D:\C#學習\ConsoleApp1\ConsoleApp1\bin\Debug\netcoreapp2.1\_1A2B.runtimeconfig.json
+D:\C#學習\ConsoleApp1\ConsoleApp1\bin\Debug\netcoreapp2.1\_1A2B.runtimeconfig.dev.json
+D:\C#學習\ConsoleApp1\ConsoleApp1\bin\Debug\netcoreapp2.1\_1A2B.dll
+D:\C#學習\ConsoleApp1\ConsoleApp1\bin\Debug\netcoreapp2.1\_1A2B.pdb
+D:\C#學習\ConsoleApp1\ConsoleApp1\obj\Debug\netcoreapp2.1\_1A2B.dll
+D:\C#學習\ConsoleApp1\ConsoleApp1\obj\Debug\netcoreapp2.1\_1A2B.pdb
