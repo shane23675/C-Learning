@@ -1,23 +1,23 @@
 {
   "format": 1,
   "restore": {
-    "D:\\Users\\C50102\\Desktop\\Git for backend\\C#學習\\ConsoleApp1\\ConsoleApp1\\_1A2B.csproj": {}
+    "D:\\C#學習\\ConsoleApp1\\ConsoleApp1\\_1A2B.csproj": {}
   },
   "projects": {
-    "D:\\Users\\C50102\\Desktop\\Git for backend\\C#學習\\ConsoleApp1\\ConsoleApp1\\_1A2B.csproj": {
+    "D:\\C#學習\\ConsoleApp1\\ConsoleApp1\\_1A2B.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Users\\C50102\\Desktop\\Git for backend\\C#學習\\ConsoleApp1\\ConsoleApp1\\_1A2B.csproj",
+        "projectUniqueName": "D:\\C#學習\\ConsoleApp1\\ConsoleApp1\\_1A2B.csproj",
         "projectName": "_1A2B",
-        "projectPath": "D:\\Users\\C50102\\Desktop\\Git for backend\\C#學習\\ConsoleApp1\\ConsoleApp1\\_1A2B.csproj",
-        "packagesPath": "D:\\Users\\C50102\\.nuget\\packages\\",
-        "outputPath": "D:\\Users\\C50102\\Desktop\\Git for backend\\C#學習\\ConsoleApp1\\ConsoleApp1\\obj\\",
+        "projectPath": "D:\\C#學習\\ConsoleApp1\\ConsoleApp1\\_1A2B.csproj",
+        "packagesPath": "C:\\Users\\kevin\\.nuget\\packages\\",
+        "outputPath": "D:\\C#學習\\ConsoleApp1\\ConsoleApp1\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
         ],
         "configFilePaths": [
-          "D:\\Users\\C50102\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\kevin\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
