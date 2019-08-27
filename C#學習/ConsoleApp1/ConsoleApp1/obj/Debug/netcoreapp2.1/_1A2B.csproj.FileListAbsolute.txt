@@ -9,3 +9,14 @@ D:\C#學習\ConsoleApp1\ConsoleApp1\bin\Debug\netcoreapp2.1\_1A2B.dll
 D:\C#學習\ConsoleApp1\ConsoleApp1\bin\Debug\netcoreapp2.1\_1A2B.pdb
 D:\C#學習\ConsoleApp1\ConsoleApp1\obj\Debug\netcoreapp2.1\_1A2B.dll
 D:\C#學習\ConsoleApp1\ConsoleApp1\obj\Debug\netcoreapp2.1\_1A2B.pdb
+D:\Users\C50102\Desktop\Git for backend\C#學習\ConsoleApp1\ConsoleApp1\bin\Debug\netcoreapp2.1\_1A2B.deps.json
+D:\Users\C50102\Desktop\Git for backend\C#學習\ConsoleApp1\ConsoleApp1\bin\Debug\netcoreapp2.1\_1A2B.runtimeconfig.json
+D:\Users\C50102\Desktop\Git for backend\C#學習\ConsoleApp1\ConsoleApp1\bin\Debug\netcoreapp2.1\_1A2B.runtimeconfig.dev.json
+D:\Users\C50102\Desktop\Git for backend\C#學習\ConsoleApp1\ConsoleApp1\bin\Debug\netcoreapp2.1\_1A2B.dll
+D:\Users\C50102\Desktop\Git for backend\C#學習\ConsoleApp1\ConsoleApp1\bin\Debug\netcoreapp2.1\_1A2B.pdb
+D:\Users\C50102\Desktop\Git for backend\C#學習\ConsoleApp1\ConsoleApp1\obj\Debug\netcoreapp2.1\_1A2B.csprojAssemblyReference.cache
+D:\Users\C50102\Desktop\Git for backend\C#學習\ConsoleApp1\ConsoleApp1\obj\Debug\netcoreapp2.1\_1A2B.csproj.CoreCompileInputs.cache
+D:\Users\C50102\Desktop\Git for backend\C#學習\ConsoleApp1\ConsoleApp1\obj\Debug\netcoreapp2.1\_1A2B.AssemblyInfoInputs.cache
+D:\Users\C50102\Desktop\Git for backend\C#學習\ConsoleApp1\ConsoleApp1\obj\Debug\netcoreapp2.1\_1A2B.AssemblyInfo.cs
+D:\Users\C50102\Desktop\Git for backend\C#學習\ConsoleApp1\ConsoleApp1\obj\Debug\netcoreapp2.1\_1A2B.dll
+D:\Users\C50102\Desktop\Git for backend\C#學習\ConsoleApp1\ConsoleApp1\obj\Debug\netcoreapp2.1\_1A2B.pdb

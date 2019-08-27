@@ -1,4 +1,5 @@
 ﻿using System;
+using System.Text.RegularExpressions;
 
 namespace _1A2B
 {
@@ -26,8 +27,18 @@ namespace _1A2B
                 if (!CheckRepeat(answer)) { return answer; }
             }
         }
+        //檢查輸入值是否合法的方法
+        public static bool CheckValid(string input)
+        {
+            Regex reg = new Regex("\\D");
+            if (input.Length != 4 || reg.IsMatch(input))
+            {
+                return false;
+            }
+            return true;
+        }
 
-        //檢查數值是否有重複的方法
+        //檢查數值是否有重複的方法(有重複回傳true
         public static bool CheckRepeat(string input)
         {
             for (int i = 0; i < 4; i++)
@@ -85,6 +96,11 @@ namespace _1A2B
                 string guess = Console.ReadLine();
                 //檢查點：輸入exit可以退出循環
                 if (guess == "exit") { break; }
+                //若輸入值不合法則輸出提示
+                else if (!Progress.CheckValid(guess))
+                {
+                    Console.WriteLine("請輸入合法數值!!");
+                }
                 //若輸入值有重複則輸出提示
                 else if(Progress.CheckRepeat(guess))
                 {
@@ -92,7 +108,15 @@ namespace _1A2B
                 }
                 else
                 {
-                    Console.WriteLine(Progress.CheckAB(guess));
+                    string result = Progress.CheckAB(guess);
+                    if (result == "4A0B")
+                    {
+                        Console.WriteLine("恭喜答對！！");
+                    }
+                    else
+                    {
+                        Console.WriteLine(result);
+                    }
                 }
             }
         }
